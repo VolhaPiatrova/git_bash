@@ -1,4 +1,6 @@
-# Работа с git и bash
+# Работа с git и bash  
+If the project provides access to the server, a QA engineer can view logs or other artifacts on it. This requires knowledge of basic Bash commands. For this task i use the terminal in Visual Studio Code.  
+
 ## Основные команды для работы с файлами и каталогами в терминале
 
 | №  | Команда                                                                                 | Описание                                                                                         |
